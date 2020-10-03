@@ -130,6 +130,8 @@ width="1000">
 
 6 :- <a href="https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A">Neso Academy</a>
 
+7 :- <a href="https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw"> Gate Smashers </a>
+
 **Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
@@ -152,6 +154,8 @@ width="1000">
 
 5 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
 
+6 :- <a href="https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw"> Gate Smashers </a>
+
 **Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
@@ -170,6 +174,9 @@ width="1000">
 
 3 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
 
+4 :- <a href="https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw"> Gate Smashers </a>
+
+
 **Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
@@ -180,7 +187,7 @@ width="1000">
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# Data Structute
+# Data Structure
 
 **Youtube Lectures**
 
@@ -191,6 +198,9 @@ width="1000">
 3 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
 
 4 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
+
+5 :- <a href="https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw"> Gate Smashers </a>
+
 
 **Other Resources**
 
@@ -214,6 +224,9 @@ width="1000">
 
 4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
 
+5 :- <a href="https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw"> Gate Smashers </a>
+
+
 **Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
@@ -233,6 +246,9 @@ width="1000">
 3 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
 
 4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
+
+5 :- <a href="https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw"> Gate Smashers </a>
+
 
 **Other Resources**
 
@@ -254,6 +270,10 @@ width="1000">
 
 4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
 
+5:- <a href="https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw"> Gate Smashers </a>
+
+
+
 **Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
@@ -273,6 +293,9 @@ width="1000">
 3 :- <a href="https://www.youtube.com/channel/UCQA9tK0nRK1e_Bqg0uETs8A">Well Academy</a>
 
 4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
+
+5 :- <a href="https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw"> Gate Smashers </a>
+
 
 **Other Resources**
 
@@ -296,6 +319,9 @@ width="1000">
 
 5 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
 
+6 :- <a href="https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw"> Gate Smashers </a>
+
+
 **Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
@@ -318,6 +344,8 @@ width="1000">
 4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
 
 5 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
+
+6 :- <a href="https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw"> Gate Smashers </a>
 
 **Other Resources**
 
